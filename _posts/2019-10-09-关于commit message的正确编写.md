@@ -1,9 +1,8 @@
 ---
-layout: posts
+layout: post
 title:  "关于commit message的正确编写"
 date: 2019-10-09 12:03:12
 tags: Git 开发规范
-date: 2019-9-11 00:51:12
 categories: Git
 ---
 
